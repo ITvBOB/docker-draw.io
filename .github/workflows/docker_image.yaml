@@ -17,7 +17,7 @@ on:
 
 
 env:
-  IMAGE: "docker.io/fjudith/draw.io"
+  IMAGE: "itvman2020/draw.io"
   VERSION_FILE: "./drawio/VERSION"
 
 jobs:
